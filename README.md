@@ -1,4 +1,4 @@
-# Discord Bot: Rainer Winkler Adventures
+# Discord Bot für Dungeons&Dragons: Rainer Winkler Adventures
 
 ## Beschreibung
 Dieses Repository enthält den Code für einen Discord-Bot, der die Rolle von Rainer Winkler, einem fiktiven Charakter inspiriert von YouTube-Persönlichkeiten, übernimmt. Der Bot interagiert mit Benutzern in Discord-Kanälen, indem er Textnachrichten verarbeitet, auf sie mit kontextbezogenen, charakteristischen Antworten reagiert und diese Antworten mithilfe einer Text-to-Speech-Technologie in Sprachausgaben umwandelt.
